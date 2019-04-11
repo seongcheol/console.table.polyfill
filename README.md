@@ -2,7 +2,7 @@
 console.table available on ie9↑
 only for json array or json(single dimension)
 
-===============================
+----
 
 sample:
 
